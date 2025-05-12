@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sisvis/static/css/main.f581e73f.css",
-    "main.js": "/sisvis/static/js/main.9bb09cf1.js",
+    "main.js": "/sisvis/static/js/main.90703233.js",
     "static/js/453.c59030c4.chunk.js": "/sisvis/static/js/453.c59030c4.chunk.js",
     "index.html": "/sisvis/index.html",
     "main.f581e73f.css.map": "/sisvis/static/css/main.f581e73f.css.map",
-    "main.9bb09cf1.js.map": "/sisvis/static/js/main.9bb09cf1.js.map",
+    "main.90703233.js.map": "/sisvis/static/js/main.90703233.js.map",
     "453.c59030c4.chunk.js.map": "/sisvis/static/js/453.c59030c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f581e73f.css",
-    "static/js/main.9bb09cf1.js"
+    "static/js/main.90703233.js"
   ]
 }
