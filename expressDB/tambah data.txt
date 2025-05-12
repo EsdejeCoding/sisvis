@@ -1,0 +1,71 @@
+
+  "akunAdmin": [
+    {
+      "id": "a7tOFiVH",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "type": "admin"
+    }
+  ],
+  "harga": [
+    {
+      "id": "yUX42P1H",
+      "idBarang": 1746158820897,
+      "jenis": "1",
+      "nama": "Tambal Ban",
+      "harga": "15000"
+    },
+    {
+      "id": "jCX42BcS",
+      "idBarang": 1746159066486,
+      "jenis": "1",
+      "nama": "Ganti Ban Luar",
+      "harga": "10000"
+    },
+    {
+      "id": "QWOCXMNe",
+      "idBarang": 1746159129687,
+      "jenis": "0",
+      "nama": "Ban Dalam IRC Matic 80",
+      "harga": "45000"
+    },
+    {
+      "id": "eQyw5aWp",
+      "idBarang": 1746159177924,
+      "jenis": "0",
+      "nama": "Ban Dalam IRC Matic 90",
+      "harga": "50000"
+    },
+    {
+      "id": "mSzwxGtZ",
+      "idBarang": 1746159212129,
+      "jenis": "1",
+      "nama": "Servis Mesin Ringan",
+      "harga": "20000"
+    },
+    {
+      "id": "-K_omGmW",
+      "idBarang": 1746159249881,
+      "jenis": "1",
+      "nama": "Servis Mesin Berat",
+      "harga": "100000"
+    },
+    {
+      "id": "aP3KEaEg",
+      "idBarang": 1746627295556,
+      "jenis": "0",
+      "nama": "Kanvas Rem",
+      "harga": "20000"
+    },
+    {
+      "id": "J5fghhI_",
+      "idBarang": 1746886204962,
+      "jenis": "1",
+      "nama": "Las Listrik Ringan",
+      "harga": "19999"
+    }
+  ],
+  "customer": [],
+  "servis": [
+  ]

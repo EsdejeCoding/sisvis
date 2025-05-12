@@ -1,0 +1,171 @@
+{
+  "akunAdmin": [
+    {
+      "id": "a7tOFiVH",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "type": "admin"
+    }
+  ],
+  "harga": [
+    {
+      "id": "yUX42P1H",
+      "idBarang": 1746158820897,
+      "jenis": "1",
+      "nama": "Tambal Ban",
+      "harga": "15000"
+    },
+    {
+      "id": "jCX42BcS",
+      "idBarang": 1746159066486,
+      "jenis": "1",
+      "nama": "Ganti Ban Luar",
+      "harga": "10000"
+    },
+    {
+      "id": "QWOCXMNe",
+      "idBarang": 1746159129687,
+      "jenis": "0",
+      "nama": "Ban Dalam IRC Matic 80",
+      "harga": "45000"
+    },
+    {
+      "id": "eQyw5aWp",
+      "idBarang": 1746159177924,
+      "jenis": "0",
+      "nama": "Ban Dalam IRC Matic 90",
+      "harga": "50000"
+    },
+    {
+      "id": "mSzwxGtZ",
+      "idBarang": 1746159212129,
+      "jenis": "1",
+      "nama": "Servis Mesin Ringan",
+      "harga": "20000"
+    },
+    {
+      "id": "-K_omGmW",
+      "idBarang": 1746159249881,
+      "jenis": "1",
+      "nama": "Servis Mesin Berat",
+      "harga": "100000"
+    },
+    {
+      "id": "aP3KEaEg",
+      "idBarang": 1746627295556,
+      "jenis": "0",
+      "nama": "Kanvas Rem",
+      "harga": "20000"
+    },
+    {
+      "id": "J5fghhI_",
+      "idBarang": 1746886204962,
+      "jenis": "1",
+      "nama": "Las Listrik Ringan",
+      "harga": "19999"
+    }
+  ],
+  "customer": [],
+  "servis": [
+    {
+      "id": "BJ9_OMEV",
+      "pemilik": "Wowok owok owok",
+      "telepon": "6283874860128",
+      "barang": "Jok Mobil",
+      "keluhan": [
+        "Dwi Fungsi",
+        "Omon Omon"
+      ],
+      "tanggal": "22042025",
+      "antrian": 1,
+      "status": "2",
+      "perbaikan": [
+        {
+          "id": "mSzwxGtZ",
+          "nama": "Servis Mesin Ringan",
+          "qty": "1",
+          "subtotal": 20000
+        }
+      ],
+      "total": 20000
+    },
+    {
+      "id": "kdY4Y5Um",
+      "pemilik": "Fufufafa",
+      "telepon": "6285869546839",
+      "barang": "Martabak Daging Palembang",
+      "keluhan": [
+        "Haik"
+      ],
+      "tanggal": "29042025",
+      "antrian": 1,
+      "status": "2",
+      "perbaikan": [
+        {
+          "id": "yUX42P1H",
+          "nama": "Tambal Ban",
+          "qty": "1",
+          "subtotal": 15000
+        }
+      ],
+      "total": 15000
+    },
+    {
+      "id": "rYM1LQh3",
+      "pemilik": "Mulyono",
+      "telepon": "6285868366494",
+      "barang": "Ijazah",
+      "keluhan": [
+        "Bikin biar aseli"
+      ],
+      "tanggal": "29042025",
+      "antrian": 2,
+      "status": 0,
+      "perbaikan": [],
+      "total": 0
+    },
+    {
+      "id": "L8sWcZpS",
+      "pemilik": "Mulyadi",
+      "telepon": "6281770440708",
+      "barang": "Kacang kedele khas Nganjuk",
+      "keluhan": [
+        "Ormas"
+      ],
+      "tanggal": "29042025",
+      "antrian": 3,
+      "status": 0,
+      "perbaikan": [],
+      "total": 0
+    },
+    {
+      "id": "CS_AVwQL",
+      "pemilik": "dalijo",
+      "telepon": "025878",
+      "barang": "Jok Mobil",
+      "keluhan": [
+        "radong"
+      ],
+      "tanggal": "10052025",
+      "antrian": 1,
+      "status": "1",
+      "perbaikan": [],
+      "total": 0
+    },
+    {
+      "id": "eD3BJLms",
+      "pemilik": "tatik",
+      "telepon": "6283874860128",
+      "barang": "Jok Mobil",
+      "keluhan": [
+        "takon dewe"
+      ],
+      "tanggal": "10052025",
+      "antrian": 2,
+      "status": 0,
+      "perbaikan": [],
+      "total": 0
+    }
+  ]
+}

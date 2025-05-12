@@ -1,0 +1,18 @@
+CARA MENGGUNAKAN QUERY
+contoh cari berdasarkan id :
+http://localhost:3003/pembelian_customer?id_pembelian=102
+
+contoh cari menggunakan _like :
+http://localhost:3003/pembelian_customer?customer_like=on
+
+contoh cari menggunakan _not :
+http://localhost:3003/pembelian_customer?customer_not=on
+
+contoh cari array tanpa object :
+http://localhost:3003/pegawai?shift_pagi=senin
+
+contoh cari array dengan object :
+http://localhost:3003/pembelian_customer?barang_dibeli.id_barang=1
+
+contoh cari dengan query kombinasi
+http://localhost:3003/pembelian_customer?customer_like=o&barang_dibeli.id_barang=3
